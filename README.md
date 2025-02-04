@@ -30,7 +30,7 @@ To set up the development environment for this project, follow these steps:
 To run the training pipeline, follow these steps:
 
 1. **Prepare the data**:
-    Replace `$PATH_TO_DATA` with the actual data path on your disk and create a symbolic link:
+    Replace `$PATH_TO_DATA` with the actual data path on your disk and create a symbolic link. The data can be fetched from https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge:
     ```bash
     ln -s $PATH_TO_DATA data
     ```
