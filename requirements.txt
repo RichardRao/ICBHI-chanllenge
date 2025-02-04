@@ -1,0 +1,9 @@
+librosa==0.10.2.post1
+nlpaug==1.1.11
+numpy==2.2.2
+pandas==2.2.3
+timm==0.4.5
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+wget==3.2
