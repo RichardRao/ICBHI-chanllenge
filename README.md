@@ -40,7 +40,7 @@ To run the training pipeline, follow these steps:
     python train.py
     ```
 
-3. **Monitor the training process** (TODA):
+3. **Monitor the training process** (TODO):
     You can monitor the training process using TensorBoard. Start TensorBoard with the following command:
     ```bash
     tensorboard --logdir=logs
